@@ -1,0 +1,11 @@
+# Entorno Virtual
+.venv/
+
+# ENV files
+*.env
+
+# Docker compose
+*.yaml
+
+#Pychache
+__pycache__/
